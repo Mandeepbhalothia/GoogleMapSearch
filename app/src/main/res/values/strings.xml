@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchPlaces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place_api_key">AIzaSyAAWh_2ShWA0KwsQV2L7Z6ogSMaNms5hUY</string>
+</resources>
